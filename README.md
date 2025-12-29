@@ -1,6 +1,6 @@
-## TUBES_Analisis-Kompleksitas-Algoritma
+# TUBES_Analisis-Kompleksitas-Algoritma
 
-# KELOMPOK KOMAR
+## KELOMPOK KOMAR
 
 Anggota kelompok : 
 1. Zalfa Athallah Pasha Hermawan    (103112400196)
